@@ -71,7 +71,7 @@ public class MessagesConfig {
 
         List<String> permMuteMessageDefault = new ArrayList<>();
         permMuteMessageDefault.add("&1&l[&9&lSuper-Report&1&l] &c- You have been &4PERMANENTLY &cmuted by &6{muter}&c for");
-        permMuteMessageDefault.add("&6{reason} &cYou can appeal on our discord @&6https://discord.gg/3wqbfmX74P");
+        permMuteMessageDefault.add("&6{reason} &cYou can appeal on our discord @&6https://discord.gg/7Jtgw8zV");
         reportMenuCfg.set("PermanentMuteMessage", permMuteMessageDefault);
 
         savePunishmentsFile();
