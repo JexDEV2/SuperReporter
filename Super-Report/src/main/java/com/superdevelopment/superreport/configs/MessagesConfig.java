@@ -60,8 +60,8 @@ public class MessagesConfig {
         List<String> permBanMessageDefault = new ArrayList<>();
         permBanMessageDefault.add("&1&l[&9&lSuper-Report&1&l] &c- You have been &4PERMANENTLY &cbanned by &6{banner}&c for");
         permBanMessageDefault.add("&6{reason}");
-        permBanMessageDefault.add("&cYou can appeal on our discord @&6https://discord.gg/3wqbfmX74P");
-        permBanMessageDefault.add("&cor buy an unban at our store &6https://discord.gg/3wqbfmX74P");
+        permBanMessageDefault.add("&cYou can appeal on our discord @&6https://discord.gg/7Jtgw8zV");
+        permBanMessageDefault.add("&cor buy an unban at our store &6https://discord.gg/7Jtgw8zV");
         reportMenuCfg.set("PermanentBanMessage", permBanMessageDefault);
         
         List<String> tempMuteMessageDefault = new ArrayList<>();
